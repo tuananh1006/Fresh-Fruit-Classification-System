@@ -29,4 +29,4 @@ def fresh():
         return render_template('fresh.html',fileupload=True,img_name=filename, w=w,predict=predict,score=score)
 
 
-    return render_template('fresh.html',fileupload=False,img_name="freeai.png")
+    return render_template('fresh.html',fileupload=False,img_name="")

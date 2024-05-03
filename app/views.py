@@ -5,16 +5,7 @@ from PIL import Image
 from app.utils import pipeline_model
 
 UPLOAD_FLODER = 'static/uploads'
-def base():
-    return render_template('base.html')
 
-
-def index():
-    return render_template('index.html')
-
-
-def fruit():
-    return render_template('fruit.html')
 
 def getwidth(path):
     img = Image.open(path)

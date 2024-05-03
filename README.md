@@ -1,5 +1,5 @@
 # CS221
-<h1>This is mini project in CS221</h1>h
+This is mini project in CS221
 <br>
 <h2>Run:</h2>
 <br>

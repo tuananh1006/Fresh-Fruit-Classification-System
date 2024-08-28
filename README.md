@@ -35,9 +35,11 @@ git clone https://github.com/BaoQuoc285/CS221.git
 cd cs221
 pip install -r requirements.txt
 ```
+## DEMO
 ```DEMO
 python main.py
 ```
-```DEMO
+## TRAIN
+```TRAIN
 .ipynb
 ```

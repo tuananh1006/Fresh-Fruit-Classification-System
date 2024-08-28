@@ -26,7 +26,11 @@
 │       ├── base.htmlt
 │       │    
 │       ├── fresh.html
-│ 
+│
+├── main.py
+│
+├── requirements.txt
+│
 └── .ipynb      
 ```
 ## Set up

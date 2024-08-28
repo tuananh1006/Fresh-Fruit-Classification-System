@@ -1,5 +1,7 @@
 # CS221
-This is mini project in CS221
+# Fruits fresh and rotten for classification
+## Script 
+<img src = "./
 <br>
 <h2>Run:</h2>
 <br>

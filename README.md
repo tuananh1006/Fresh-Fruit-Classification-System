@@ -26,11 +26,7 @@
 │       ├── base.htmlt
 │       │    
 │       ├── fresh.html
-│
-├── main.py
-│
-├── requirements.txt
-│
+│ 
 └── .ipynb      
 ```
 ## Set up
@@ -39,11 +35,9 @@ git clone https://github.com/BaoQuoc285/CS221.git
 cd cs221
 pip install -r requirements.txt
 ```
-## DEMO
 ```DEMO
 python main.py
 ```
-## TRAIN
-```TRAIN
+```DEMO
 .ipynb
 ```

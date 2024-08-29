@@ -1,5 +1,3 @@
-# CS221
-----
 # Fruits fresh and rotten for classification
 ----
 ## Flowchart 

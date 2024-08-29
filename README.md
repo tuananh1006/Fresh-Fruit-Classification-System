@@ -3,7 +3,7 @@
 # Fruits fresh and rotten for classification
 ----
 ## Script 
-<img src = "./picture/1.png" alt ="flowchart" width = "700"/>
+<img src = "./picture/2.png" alt ="flowchart" width = "700"/>
 
 ### Repo structure
 ```

@@ -21,7 +21,7 @@
 │   ├── uploads: ...
 │   │ 
 ├── templates :
-│       ├── base.htmlt
+│       ├── base.html
 │       │    
 │       ├── fresh.html
 │ 

@@ -29,8 +29,8 @@
 ```
 ## Set up
 ```bash
-git clone https://github.com/BaoQuoc285/CS221.git
-cd cs221
+git clone https://github.com/tuananh1006/Fresh-Fruit-Classification-System.git
+cd Fresh-Fruit-Classification-System
 pip install -r requirements.txt
 ```
 ## DEMO
